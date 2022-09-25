@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "134930601075",
+    "firebase_url": "https://electofirebase-95a6b-default-rtdb.firebaseio.com",
+    "project_id": "electofirebase-95a6b",
+    "storage_bucket": "electofirebase-95a6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134930601075:android:7f957e525764daa90d0606",
+        "android_client_info": {
+          "package_name": "com.example.electofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134930601075-1lmitr9q2j6rc4lkgut7tgljdilir9b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIa_7fj77RuffAQ-5jKqzO79hM6aOxsVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134930601075-1lmitr9q2j6rc4lkgut7tgljdilir9b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134930601075:android:564251bad3b04ad60d0606",
+        "android_client_info": {
+          "package_name": "com.example.storefood1122334455"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134930601075-1lmitr9q2j6rc4lkgut7tgljdilir9b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIa_7fj77RuffAQ-5jKqzO79hM6aOxsVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134930601075-1lmitr9q2j6rc4lkgut7tgljdilir9b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
